@@ -24,7 +24,7 @@
       {
         "name": "哔哩哔哩",
         "link": "https://www.bilibili.com/",
-        "avatar": "https://unpkg.com/@lobehub/icons-static-webp@latest/dark/bilibili.png",
+        "avatar": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/bilibili-color.png",
         "descr": "二次元"
       },
       {
